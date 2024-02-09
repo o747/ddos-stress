@@ -1,0 +1,20 @@
+body{background-color:#0a0a0a;margin:0;font-family:Bitter,serif;color:#32cc00;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}.container{display:flex;justify-content:center;padding:98px 32px}.content{max-width:674px;flex-grow:1}.title{text-align:center;font-size:32px;font-weight:700}.details{font-size:18px}p{margin:32px 0 0}.target{font-family:Helvetica,sans-serif;padding:18px 16px;border:1px solid #de0000;border-radius:4px;display:flex;align-items:center;margin-top:32px}.icon{margin-right:12px}.url{color:#fff}.controls{display:flex;justify-content:space-between;margin-top:32px}.input{width:50px;background:#353632;border-radius:4px;padding:6px 12px;font-size:16px;font-family:Helvetica,sans-serif;outline:0}.button,.input{border:none;color:#fff}.button{background:#de0000;border-radius:4px;text-transform:uppercase;font-size:14px;padding:10px 14px;font-weight:700;cursor:pointer}.buttonStop{background:#f59342}.infoTable{margin-top:10px;width:100%;color:#fff;border-collapse:collapse}.infoTable tr td{border-bottom:1px solid #353632;border-top:1px solid #353632;padding:14px 4px;font-family:Helvetica,sans-serif}@-webkit-keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.loading{-webkit-animation:spin 1.2s linear infinite;animation:spin 1.2s linear infinite;margin-right:8px}.infoTableCell{display:flex;align-items:center}
+/*
+     FILE ARCHIVED ON 00:28:00 Feb 27, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:50:33 Feb 09, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.081
+  exclusion.robots.policy: 0.07
+  cdx.remote: 0.099
+  esindex: 0.011
+  LoadShardBlock: 177.696 (6)
+  PetaboxLoader3.datanode: 298.428 (7)
+  load_resource: 227.211
+  PetaboxLoader3.resolve: 51.861
+*/
